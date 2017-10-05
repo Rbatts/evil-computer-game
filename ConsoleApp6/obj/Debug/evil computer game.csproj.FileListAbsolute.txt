@@ -1,0 +1,7 @@
+C:\Users\Rich\source\repos\evil computer game\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\Rich\source\repos\evil computer game\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\Rich\source\repos\evil computer game\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\Rich\source\repos\evil computer game\ConsoleApp6\obj\Debug\evil computer game.csprojResolveAssemblyReference.cache
+C:\Users\Rich\source\repos\evil computer game\ConsoleApp6\obj\Debug\evil computer game.csproj.CoreCompileInputs.cache
+C:\Users\Rich\source\repos\evil computer game\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\Rich\source\repos\evil computer game\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

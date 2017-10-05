@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evil computer game", "ConsoleApp6\evil computer game.csproj", "{AEA572CF-7ED2-44D2-961D-1E4E3715BEDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA572CF-7ED2-44D2-961D-1E4E3715BEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA572CF-7ED2-44D2-961D-1E4E3715BEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA572CF-7ED2-44D2-961D-1E4E3715BEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA572CF-7ED2-44D2-961D-1E4E3715BEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3749F07C-2E4A-4FC3-A859-2FD7B012731F}
+	EndGlobalSection
+EndGlobal
